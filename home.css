@@ -1,0 +1,51 @@
+img{
+    width: 900px;
+    height: 600px;
+    border-top-right-radius: 30%;
+    border-bottom-right-radius: 30%;
+}
+
+.rainbow-text{
+    font-size: 50px;
+    position:fixed;
+    right:400px;
+    top: 0px;
+    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.home{
+    font-size: 50px;
+    color: white;
+}
+
+.about{
+    position: fixed;
+    top: 100px;
+    right: 50px;
+    font-size: 50px;
+    color: white;
+}
+
+.projects{
+    position: fixed;
+    top: 200px;
+    right: 50px;
+    font-size: 50px;
+    color: white;
+}
+
+.contact{
+    position: fixed;
+    top: 300px;
+    right: 50px;
+    font-size: 50px;
+    color: white;
+}
+
+body{
+    background-image: url("/nature1.jpeg");
+    background-size: 1920px 1080px;
+}
+

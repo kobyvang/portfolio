@@ -1,0 +1,51 @@
+img{
+    width: 40%;
+    height: 600px;
+    border-top-right-radius: 30%;
+    border-bottom-right-radius: 30%;
+    border-top-left-radius: 30%;
+    border-bottom-left-radius: 30%;
+}
+
+.home{
+    font-size: 50px;
+    color: white;
+}
+
+.about{
+    font-size: 50px;
+    color: white;
+}
+
+
+.projects{
+    font-size: 50px;
+    color: white;
+}
+
+.contact{
+    font-size: 50px;
+    color: white;
+}
+
+
+#space{
+    word-spacing: 50px;
+}
+
+h1{
+    text-align: center;
+}
+
+
+body{
+    background-image: url("/space.jpg")
+}
+body{
+    color: red;
+}
+
+
+p{
+    font-size: 40px;
+}

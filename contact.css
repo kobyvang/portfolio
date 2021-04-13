@@ -1,0 +1,94 @@
+.home{
+    font-size: 50px;
+    color: white;
+}
+
+.about{
+    font-size: 50px;
+    color: white;
+}
+
+
+.projects{
+    font-size: 50px;
+    color: white;
+}
+
+.contact{
+    font-size: 50px;
+    color: white;
+}
+
+
+#space{
+    word-spacing: 50px;
+}
+
+img{
+    width: 600px;
+    height: 600px;
+}
+
+h1{
+    text-align: right;
+    position: fixed;
+    top: 10px;
+    right: 50px;
+    font-size: 50px;
+    color: rgb(207, 7, 7);
+}
+h2{
+    text-align: right;
+    position: fixed;
+    top: 50px;
+    right: 50px;
+    font-size: 50px;
+    color: rgb(221, 5, 5);
+}
+
+h3{
+    text-align: right;
+    position: fixed;
+    top: 200px;
+    right: 50px;
+    font-size: 50px;
+    color: red;
+}
+
+h4{
+    text-align: right;
+    position: fixed;
+    top: 240px;
+    right: 50px;
+    font-size: 50px;
+    color: red;
+}
+
+h5{
+    text-align: center;
+    position: fixed;
+    top: -65px;
+    right: 650px;
+    font-size: 60px;
+    color: red;
+}
+
+
+h6{
+    text-align: center;
+    position: fixed;
+    top: 100px;
+    right: 820px;
+    font-size: 60px;
+    color: rgb(218, 9, 2);
+}
+
+
+body{
+    background-image: url("/kimi.gif");
+}
+
+p{
+    font-size: 50px;
+    color:red;
+}
